@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel Arvizu</h1>
+<h1 align="center">Hi 👋, I'm Samuel Rico Arvizu</h1>
 <h3 align="center">A passionate backend developer from México</h3>
 
 - 💬 Ask me about **Html, PHP, Laravel, MySql**
